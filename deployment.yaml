@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: sample-app
-        image: gksdud3107/sample-app:12
+        image: gksdud3107/sample-app:13
         imagePullPolicy: Always
         ports:
         - containerPort: 80
